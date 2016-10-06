@@ -1,6 +1,7 @@
 <?php
 
 require 'vendor/autoload.php';
+require 'config.php';
 
 // Create and configure Slim app
 $config = ['settings' => [
