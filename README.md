@@ -8,7 +8,7 @@ A RestFul API to play Black Jack OnLine, to manage request, conections, tables, 
 
 ## Examples
 
-### Date syncronization
+### DateTime sync
 
 To sync your client datetime with the server, you can use the date method.
 
